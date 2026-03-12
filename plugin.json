@@ -1,0 +1,7 @@
+{
+  "name": "market-research-agent",
+  "version": "0.1.0",
+  "description": "Market Research Agent - 브랜드/기업의 주가, 재무제표, 뉴스, 애널리스트 의견, 마켓 컨센서스를 자동 수집하고 분석합니다. 국내/해외, 상장/비상장 기업 모두 지원합니다.",
+  "commands": "commands",
+  "skills": "skills"
+}
